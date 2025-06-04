@@ -5,7 +5,7 @@
 
 
 #### Gimbal Files
-
+[GE-12C](https://github.com/harrinator-yxz/DIY-3d-printed-HOTAS-joystick/edit/main/3D%20Prints/README.md#:~:text=Gimbal-,GE%2D12C.stl,-README.md)
 
 
 
