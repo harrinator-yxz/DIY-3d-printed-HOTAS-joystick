@@ -45,9 +45,10 @@ FreeJoy supports the following external periphery:
 > Take a look a the [Freejoy](https://github.com/FreeJoy-Team/FreeJoy) Wiki: [Here](https://github.com/FreeJoy-Team/FreeJoyWiki)
 
 #### Freejoy Configurator QT
-[Freejoy Configurator](https://github.com/FreeJoy-Team/FreeJoyConfiguratorQt) is an app that lets you edit settings on you STM32 without having to reflash the hole board which you will learn about later. You can look at their Github page: [here](https://github.com/FreeJoy-Team/FreeJoyConfiguratorQt).
+[Freejoy Configurator](https://github.com/FreeJoy-Team/FreeJoyConfiguratorQt) is an app that lets you edit settings on you STM32 without having to reflash the hole board which you will learn about later. You can look at their Github page: [here](https://github.com/FreeJoy-Team/FreeJoyConfiguratorQt). Freejoy configurator has the featues to change and adapt all of the amazing Freejoy features in an easy way. For example on the configurator you can set up axis curves for different axis. This would be helpful for something like a throttle or a trigger. All of these features can help make the feel of your joystick just a little better.
 
 <img src="https://github.com/FreeJoy-Team/FreeJoyWiki/blob/master/images/main.jpg" width="800"/>
+
 
 
 
