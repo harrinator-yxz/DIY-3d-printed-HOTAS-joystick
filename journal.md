@@ -22,7 +22,7 @@ I found:
 along with multiple other videos about DIY Hotas's and even a [Reddit Page](https://www.reddit.com/r/HotasDIY/)
 
 
-[insert pictures of what you're working on!]
+
 
 **Total time spent: 4h**
 
@@ -30,6 +30,26 @@ along with multiple other videos about DIY Hotas's and even a [Reddit Page](http
 
 I decided to use the [Real Robots Modular Joystick](https://www.thingiverse.com/thing:4732811) For my Gimbal. I also decided to slighly modify this for my purpose and for easier recreation.
 The first modification was creating a hole through the joystick stick that connects all the mechanical proccess to the stick above There is already
+
+<img src="/Images/stick.png" alt="stick" width="200" />
+<img src="/Images/Springhammer1.png" alt="stick" width="200" />
+
+**Total  time spend: 3h**
+
+
+### June 11th: parts
+
+I spent today just deciding what parts to use. For the buttons I was looking at 7mm momentary push buttons. I just decided on these because I couldnt be bothered finding 5 way or 4 way buttons. Also I ordered these just from temu just because they were cheap lol.
+
+
+
+
+
+
+
+
+
+
 
 
 
