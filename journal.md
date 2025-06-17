@@ -1,0 +1,36 @@
+---
+title: DIY 3d printed HOTAS
+author: Harry Connolly (harrinator-yxz)
+description: a full guide on how to fully create, 3D print, and assemble a whole HOTAS setup.
+created_at: 2024-03-20
+---
+
+
+
+
+### June 8th: Project startup
+
+I started this project by just looking for some files and resources to get started.
+I found:
+
+- The [Olukelo gimbal](https://www.thingiverse.com/thing:2496028)
+- The [Real Robots Modular Joystick](https://www.thingiverse.com/thing:4732811)
+- [F-16 Sidestick Grip](https://www.printables.com/model/233472-f-16-sidestick-grip) By [Spock](https://www.printables.com/@Spock) On [printables.com](Printables)
+- [Freejoy](https://github.com/FreeJoy-Team/FreeJoy)
+  
+
+along with multiple other videos about DIY Hotas's and even a [Reddit Page](https://www.reddit.com/r/HotasDIY/)
+
+
+[insert pictures of what you're working on!]
+
+**Total time spent: 4h**
+
+### June 10th: Deciding on parts
+
+I decided to use the [Real Robots Modular Joystick](https://www.thingiverse.com/thing:4732811) For my Gimbal. I also decided to slighly modify this for my purpose and for easier recreation.
+
+The firs modification was creating a hole through the joystick stick that connects all the mechanical proccess to the stick above 
+
+
+
