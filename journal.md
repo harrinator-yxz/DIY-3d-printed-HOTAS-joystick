@@ -29,8 +29,7 @@ along with multiple other videos about DIY Hotas's and even a [Reddit Page](http
 ### June 10th: Deciding on parts
 
 I decided to use the [Real Robots Modular Joystick](https://www.thingiverse.com/thing:4732811) For my Gimbal. I also decided to slighly modify this for my purpose and for easier recreation.
-
-The firs modification was creating a hole through the joystick stick that connects all the mechanical proccess to the stick above 
+The first modification was creating a hole through the joystick stick that connects all the mechanical proccess to the stick above There is already
 
 
 
