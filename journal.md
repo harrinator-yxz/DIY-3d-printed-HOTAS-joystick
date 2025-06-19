@@ -39,7 +39,7 @@ The first modification was creating a hole through the joystick stick that conne
 
 ### June 11th: parts
 
-I spent today just deciding what parts to use. For the buttons I was looking at 7mm momentary push buttons. I just decided on these because I couldnt be bothered finding 5 way or 4 way buttons. Also I ordered these just from temu just because they were cheap lol.
+I spent today just deciding what parts to use. For the buttons I was looking at 7mm momentary push buttons. I just decided on these because I couldnt be bothered finding 5 way or 4 way buttons. Also I ordered these just from temu just because they were cheap lol.    I spent most of today downloading and installing 
 
 
 
