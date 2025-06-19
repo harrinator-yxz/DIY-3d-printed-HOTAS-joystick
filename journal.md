@@ -43,6 +43,22 @@ I spent today just deciding what parts to use. For the buttons I was looking at 
 
 
 
+### June 19th;  Multiple days work 
+
+AFter printing the gimbal i found many flaws but i stuck with it and for the next week I tryed to get it working, after it braking wiht just 2 practice movements i knew something had to be changed.
+
+Today i have started designing my own gimbal. The plane for this is:
+ - 3 Axis - with twist rudder controlss:
+ - easy to assemble
+ - Cheaop
+ - Hall effect sensors for greater accuracy.
+
+So far I only have the first axis done. IT uses 688zz ball bearings along with a simple design. I am hopinh to build on this in the future.
+
+
+<img src="/Images/first axis.png" alt="stick" width="500" />
+
+***Total time spent last few days: 7h***
 
 
 
