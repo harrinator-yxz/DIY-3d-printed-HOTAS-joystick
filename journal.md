@@ -67,7 +67,7 @@ I decided to use halle ffect sensors, i spent most of today just designing how I
 
 <img src="/Images/RENDER.PNG" alt="render" width="700" />
 
-
+**Total time: 2 hours**
 
 
 
