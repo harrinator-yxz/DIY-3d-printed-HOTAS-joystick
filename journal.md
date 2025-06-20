@@ -61,6 +61,13 @@ So far I only have the first axis done. IT uses 688zz ball bearings along with a
 ***Total time spent last few days: 7h***
 
 
+### June20th; Deciding on readings
+
+I decided to use halle ffect sensors, i spent most of today just designing how I was going to mount them to the gimbal. The way i have come up with allows for adustment and easy maintenecce. I also imported the f16 sidestick grip as a refrence by spock. I hope to get the second axis done by the end of the week.
+
+<img src="/Images/RENDER.PNG" alt="render" width="700" />
+
+
 
 
 
