@@ -69,6 +69,14 @@ I decided to use halle ffect sensors, i spent most of today just designing how I
 
 **Total time: 2 hours**
 
+### June22nd: 2nd Axis completed
+
+I started today by prepping thee gimbal for a 2nd axis, doingthings like adjusting sizes to how big i want it to be irl, and deciding which bearings to use (688zz ball bearings) then i modeled the 2nd axis, which was quite easy because I just did it trhe same as the first. The luttle L shaped pieces are going to have magnets either side and the hall effect sensor in the middle which is how i will get my readings. I also added screw holes to cerrtain places that nedded them and tommorow I am going to try and prep the model for a test, by adjust things aadding scre holes and finalising. Then I will start the twist rudder controlls. I also decided to go with a circular base, just because I think it looks cool.
+<img src="/Images/gimbal v9.png" alt="render" width="700" />
+
+
+**total time: 4h**
+
 
 
 
