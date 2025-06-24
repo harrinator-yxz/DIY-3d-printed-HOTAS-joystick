@@ -45,15 +45,18 @@ I spent today just deciding what parts to use. For the buttons I was looking at 
 
 ### June 19th;  Multiple days work 
 
-AFter printing the gimbal i found many flaws but i stuck with it and for the next week I tryed to get it working, after it braking wiht just 2 practice movements i knew something had to be changed.
+AFter printing the gimbal i found many flaws but i stuck with it and for the next week I tryed to get it working, after it braking wiht just 2 practice movements i knew something had to be changed.I 3d printed a smaller test version of the gimbal and I did not like the feel, and it was extremly limited and bad. It also used two potentiometers which were not even able to be read properlly due to the ADC's on my test raspberry pi pico not being ableto handle the two inputs which cross talk and lots of noise.
 
-Today i have started designing my own gimbal. The plane for this is:
- - 3 Axis - with twist rudder controlss:
+Today i have started designing my own gimbal. The plan for this is:
+ - 3 Axis - with twist rudder controls:
  - easy to assemble
- - Cheaop
+ - Cheap
  - Hall effect sensors for greater accuracy.
+ - few parts.
+ - easy configurable code/HID
 
-So far I only have the first axis done. IT uses 688zz ball bearings along with a simple design. I am hopinh to build on this in the future.
+So far I only have the first axis done. IT uses 688zz ball bearings along with a simple design. I am hoping to build on this adding multiple other life featurs
+
 
 
 <img src="/Images/first axis.png" alt="stick" width="500" />
