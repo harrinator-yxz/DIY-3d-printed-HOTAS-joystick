@@ -80,8 +80,11 @@ I started today by prepping thee gimbal for a 2nd axis, doingthings like adjusti
 
 **total time: 4h**
 
+### June 23rd: SMALLER!!
 
+I spent today making it smaller as ther was lots of unnescacary space, I have noew reduced the outside circle diameter to 165mm which is much more bareable than the 230mm it was befroe. I also Added screw holes in different places, as I had to cut up some pieces so I can assemble it, I also added joints in Fusion and simulated the 2 degrees of freedom which worked quite nicely ( although sdtrasining my pc)  I have left enoug room for 20 degrees of rotation in each axis (+/-) so 20 degrees forward and 20 back so 40 in total, I decided on 20 because thats what the Thrustmaster Warthog uses and I am trying to base this off that.
 
+<img src="/Images/gimbal v9.png" alt="render" width="700" />
 
 
 
