@@ -86,7 +86,16 @@ I spent today making it smaller as ther was lots of unnescacary space, I have no
 
 <img src="/Images/gimbalv10.jpg" alt="render" width="700" />
 
+**Total time: 1 hour**
 
+### June 24 - 27th
+
+Not much happened on the 24th and 25th but today and yesterday I have been hard at work working on he twist ruddeer controlls. After some consideration, I decided on a small form simple design. The little raft in the middle holds 2 springs, one on either side, and when you rotate it it compresses one of the springs, applying tension and force back. The little holes on the opposite side are just palceholders at the moment, as I kind of need to print this and test before I decideo on how I am going to mount the magnets and Hall sensors, Right now the general consessis is to mount the Hall effect sensor throug hthe little hole and have the magnets rotate around it. It turns out that calculating distances between circles and all that is much harder than what i can handle because its pretty much calculus and triganomitry.
+
+<img src="/Images/Twist Controlls v1img.png" alt="render" width="400" />
+<img src="/Images/twist.gif" alt="render" width="400" />
+
+**Time spent 3 hours**
 
 
 
