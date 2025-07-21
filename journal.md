@@ -1,7 +1,7 @@
 ---
 title: DIY 3d printed HOTAS
 author: Harry Connolly (harrinator-yxz)
-description: a full guide on how to fully create, 3D print, and assemble a whole HOTAS setup.
+description: a fully 3d printed Hotas Joystick Gimbal or any other kind of joystick gimbal with twist rudder controlls.
 created_at: 2024-03-20
 ---
 
@@ -98,4 +98,35 @@ Not much happened on the 24th and 25th but today and yesterday I have been hard 
 **Time spent 3 hours**
 
 
+### July 10th
 
+I have been away for awhile so havent gotten much done. Anyways, I spent today dciding on how I was going to have my springback return to center mechanisms. I origianlly thought I would just have four springs like in this image:
+![spring](https://i.ytimg.com/vi/-JNjoF49p5o/maxresdefault.jpg)
+
+However after modelling this on my gimbal I decided that it would not work because My gimbal was mroe based off of a 2 stage kind of platform. So i kept researching. Then I looked at other gimbals such as the olukelo one and all of the good gimbals seemed to use a "CAMS" which are htese mathematical driven curves based off of spring tesntion feel and other fancy math stuff. THese are great because you can adjust how different parts of the stick feel. EG the center feels soft and the edges harder. However, I could not figure this out for the life of me so I decided to go with a basic SCissor type springback for the time being as it would be easy to model and test out.
+
+**Total Time: 5 hours**
+
+### July 14th: Parts, Keyfacotrs and Concepts.
+
+IT turns out that the hole sciossor thing is harder said then done and would easilly be the hardest par of the project. SO I got right to work. SO first up I decided on some parts. I wanted bearings for a smooth finish and I wanted the scissors to be 3d printed. The bearings I decidede to use are 623ZZ Ball bearings. I just chose these becaause they were are good size.
+
+I spent the rest of today      drawing some concepts and plans before hopping into cad. I figured out that I would need three bearings per Axis so that is a shame it will definitly add up to the price.
+
+** TOTAL TIME: 3 hours**
+
+### July 20th: long hours on CAD
+I spent the last few days modeling the scissors, mechanisms and beaerings in fusion 360. This has taken me awhule as I am pretty new to CAD only picking up fusion a few months ago after only previously using Tinkercad.
+Below is the design I came up with. THe hooks ontop being for a rubber band or spring and the two bearings inside.
+
+<img src="/Images/cam1.png" alt="render" width="400" />
+<img src="/Images/cam2.png" alt="render" width="400" />
+
+**Total time spent: 7 hours**
+
+### July 21st: Final touches.
+Now that I am essentially finished with the gimbal, all I needed to do was make a quick monting plate for the scissors, anad do some simlations and tests and It is ready for printing. I am super happy with how the 3d model came out. And cant wait to see it get made IRL and be fully working. Below are some images of the final product.  The top image is the completed full joystick with the twist rudder and Jflyers f16 joystick mounted, although any joystick will do as it is quite easy to mount anything on there. The bottom image is just the Joystick
+
+<img src="/Images/final.png" alt="render" width="1200" />
+
+<img src="/Images/gimbal v27.png" alt="render" width="1200" />
