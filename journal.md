@@ -113,7 +113,7 @@ IT turns out that the hole sciossor thing is harder said then done and would eas
 
 I spent the rest of today      drawing some concepts and plans before hopping into cad. I figured out that I would need three bearings per Axis so that is a shame it will definitly add up to the price.
 
-** TOTAL TIME: 3 hours**
+**TOTAL TIME: 3 hours**
 
 ### July 20th: long hours on CAD
 I spent the last few days modeling the scissors, mechanisms and beaerings in fusion 360. This has taken me awhule as I am pretty new to CAD only picking up fusion a few months ago after only previously using Tinkercad.
@@ -130,3 +130,17 @@ Now that I am essentially finished with the gimbal, all I needed to do was make 
 <img src="/Images/final.png" alt="render" width="1200" />
 
 <img src="/Images/gimbal v27.png" alt="render" width="1200" />
+
+### July 22nd: SOFTWARE!!!
+
+I have spent all of today finding some software to use for this. I started today, by writing out some quick code for my ESP32, afte a few hours or so of testing and coding in the arduino ide I relised this was super flawed. for the following reasons.
+ 
+  1. There was absolutly no filtering. <br> I tested this with just some basic analog potentiometers as they are quite close to the analog ss49e hall sensors I will be using. Anyways With having three potentiometers I noticed some mad crosstalk and noise, to the point where it would be unuasable. So i spent another hour trying to add a kalman filter only to give up.
+  2. Most controllers have a sort of deadzone. <br> Most controllers such as a ps5 dualsense or even some hotas's have customizabile deadzones.
+  3. Axis curves. <br> Some Hotas joysticks and controllers have stick axis curvers which allow for a smoother feel and less "choppy" respons.
+
+After relising all this and relising that this would be very hard to code for an esp32 I decidede to use something else.
+
+What I landed on was an STM32 Running Freejoy. Freejoy is an open sources software for stm32f103c8 Blue Pills. I chose this because it was super customizable, With a software called FreeJoyConfiguratorQT which lets you set up all kinds of different things such as axis curvers, deadzones and filtering along with calibration for analog axis. I saw this and thought it was perfect so tommorow I am going to try and quickly flash it to my stm32 and wrap this project up.
+
+**Total time spen: 10 hours**
